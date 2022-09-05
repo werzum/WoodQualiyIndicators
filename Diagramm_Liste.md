@@ -14,7 +14,7 @@
     • 1.10 Studien pro Nachhaltigkeitskategorie (Tabelle)
     • 1.11 Studien pro Nachhaltigkeitskriterium pro Kategorie (stacked oder gruppiertes Balkendiagramm?)
     • 1.12 Studien pro Top 5 Nachhaltigkeitskriterium pro Kategorie (stacked oder gruppiertes Balkendiagramm?)
-    • 1.13 Übersicht der Nachhaltigkeitsindikatoren je Nachhaltigkeitskriterium (Tabelle)
+    • 1.13 Übersicht der Nachhaltigkeitsindikatoren je Nachhaltigkeitskriterium (Tabelle) - mal anschauen - vielleicht noch die letzten Column Headers entfernen?
 
 ### Zusammenhänge der Parameter und Kriterien
     • 2.1 Country/Region – Kriterien
