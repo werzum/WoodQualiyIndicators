@@ -1,0 +1,345 @@
+ID,Region,Country
+17_01,Europe,Italy
+17_02,Middle East,Iran
+17_03,Europe,Finland
+17_04,Middle East,Iran
+17_05,North America,USA
+17_07,Europe,Italy
+17_08,Europe,Austria
+17_09,Middle East,Iran
+17_10,Europe,Portugal
+17_11,Europe,Germany
+17_12,Europe,Romania
+17_14,Middle East,Iran
+17_15,Europe,Germany
+17_16,Middle East,Turkey
+17_17,Europe,Germany
+17_18,Middle East,Iran
+17_19,Europe,Italy
+17_20,Europe,Slovakia
+17_20,Europe,Czech Republic
+17_21,North America,USA
+17_22,Europe,Greece
+17_23,Europe,Italy
+17_24,Middle East,Iran
+17_25,Europe,Poland
+17_26,Europe,Italy
+17_27,Oceania,New Zealand
+17_28,Europe,Finland
+17_29,South East Asia,Malaysia
+17_30,Latin America,Brazil
+17_31,Europe,Romania
+17_32,Middle East,Iran
+17_33,Europe,Lithuania
+17_34,Latin America,Brazil
+17_36,Europe,Italy
+17_37,Europe,Italy
+17_38,Middle East,Turkey
+17_39,Latin America,Brazil
+17_40,Europe,Romania
+17_41,North America,USA
+17_42,Latin America,Brazil
+17_43,Europe,Slovakia
+17_44,Middle East,Iran
+17_45,Europe,Italy
+17_46,Europe,Romania
+17_47,Latin America,Brazil
+17_48,Latin America,Brazil
+17_49,Middle East,Iran
+17_50,Europe,Poland
+17_51,Europe,Poland
+17_52,Middle East,Iran
+18_01,Europe,Italy
+18_02,Europe,Bosnia and Herzegovina
+18_03,Latin America,Brazil
+18_04,Middle East,Iran
+18_04,Middle East,Italy
+18_04,Europe,Iran
+18_04,Europe,Italy
+18_05,North America,USA
+18_06,Latin America,Brazil
+18_07,Middle East,Iran
+18_08,Latin America,Brazil
+18_09,North America,USA
+18_10,Europe,Slovenia
+18_11,Europe,Brazil
+18_11,Europe,Germany
+18_11,Latin America,Brazil
+18_11,Latin America,Germany
+18_12,North America,Canada
+18_13,Europe,Croatia
+18_14,Europe,Sweden
+18_15,Europe,Italy
+18_16,Europe,Italy
+18_17,North America,USA
+18_18,Europe,Germany
+18_19,Europe,Austria
+18_20,South East Asia,Japan
+18_21,Europe,Sweden
+18_22,Latin America,Chile
+18_23,Europe,Italy
+18_24,Europe,Italy
+18_25,North America,USA
+18_26,Europe,Poland
+18_27,Latin America,Brazil
+18_28,Latin America,Brazil
+18_29,Europe,Croatia
+18_30,Europe,Slovakia
+18_31,North America,Canada
+18_32,South East Asia,Thailand
+18_33,North America,USA
+18_34,Europe,Romania
+18_35,Europe,Finland
+18_36,Europe,Norway
+18_37,Latin America,Brazil
+18_38,Europe,Czech Republic
+18_39,Middle East,Iran
+18_40,South East Asia,Indonesia
+18_41,North America,USA
+18_42,Europe,Sweden
+18_43,Europe,Italy
+18_44,South East Asia,South Korea
+18_45,Africa,South Africa
+18_46,Middle East,Turkey
+18_48,Europe,Poland
+18_49,North America,USA
+18_50,Middle East,Turkey
+18_51,Latin America,Chile
+18_52,Europe,Spain
+18_53,South East Asia,Thailand
+18_54,Europe,Romania
+18_55,Latin America,Brazil
+18_56,Middle East,Turkey
+18_57,Middle East,Iran
+18_58,Latin America,Brazil
+18_59,Europe,Latvia
+18_60,Europe,Latvia
+18_61,Europe,Latvia
+18_62,Middle East,Iran
+18_63,Latin America,Brazil
+18_64,Europe,Italy
+18_65,Latin America,Brazil
+18_66,Europe,Finland
+18_67,Latin America,Brazil
+19_01,North America,USA
+19_02,South East Asia,Indonesia
+19_03,North America,USA
+19_05,Latin America,Brazil
+19_06,Middle East,Iran
+19_07,South East Asia,Indonesia
+19_08,Europe,Italy
+19_09,Europe,Finland
+19_10,Middle East,"Iran, Italy"
+19_11,North America,USA
+19_12,Middle East,Iran
+19_13,South East Asia,South Korea
+19_14,Latin America,Brazil
+19_15,Latin America,Brazil
+19_16,Europe,Italy
+19_17,Europe,Estonia
+19_18,Middle East,Turkey
+19_19,South East Asia,South Korea
+19_20,South East Asia,Indonesia
+19_21,Middle East,"Iran, Italy"
+19_22,South East Asia,Japan
+19_23,Europe,Croatia
+19_24,Latin America,Brazil
+19_25,Europe,Slovakia
+19_26,Europe,Romania
+19_27,South East Asia,Indonesia
+19_28,Middle East,Iran
+19_29,Latin America,Brazil
+19_30,Latin America,Mexico
+19_31,North America,Canada
+19_32,Europe,Germany
+19_33,Middle East,Turkey
+19_34,North America,Canada
+19_35,Europe,Finland
+19_36,Europe,Austria
+19_37,Africa,South Africa
+19_38,Africa,South Africa
+19_39,Europe,Italy
+19_39,Europe,Slovenia
+19_40,Latin America,Brazil
+19_41,Europe,Poland
+19_42,Europe,Spain
+19_43,Latin America,Brazil
+19_44,Oceania,Australia
+19_45,South East Asia,Indonesia
+19_46,Europe,Germany
+19_47,Latin America,Brazil
+19_48,South East Asia,Malaysia
+19_49,Europe,Germany
+19_50,Europe,Sweden
+19_51,Oceania,Australia
+19_52,Europe,Poland
+19_53,Europe,Finland
+19_54,Europe,Croatia
+19_55,Latin America,Brazil
+19_56,North America,Canada
+19_57,Europe,Slovakia
+20_01,Oceania,Australia
+20_02,Europe,Slovakia
+20_03,South East Asia,Myanmar
+20_04,Europe,Greece
+20_05,Europe,Romania
+20_06,Europe,Romania
+20_07,Europe,Germany
+20_08,South East Asia,South Korea
+20_09,Europe,EU
+20_10,Latin America,Brazil
+20_11,Europe,Italy
+20_12,Europe,Poland
+20_13,Europe,Croatia
+20_14,Europe,Italy
+20_15,South East Asia,Indonesia
+20_16,South East Asia,Indonesia
+20_17,North America,USA
+20_18,Europe,Slovenia
+20_19,Europe,Romania
+20_20,Europe,Croatia
+20_21,North America,USA
+20_22,Middle East,Turkey
+20_23,Europe,Finland
+20_24,Middle East,Iran
+20_25,Europe,Sweden
+20_26,Europe,Serbia
+20_27,Europe,Germany
+20_28,Europe,Sweden
+20_29,Europe,Romania
+20_30,South East Asia,Mongolia
+20_31,Europe,Spain
+20_32,Middle East,Iran
+20_33,Europe,Poland
+20_34,Europe,Germany
+20_35,North America,USA
+20_36,Europe,Finland
+20_37,Central Asia,Russia
+20_38,Central Asia,Russia
+20_39,Central Asia,Russia
+20_40,Central Asia,Russia
+20_41,Middle East,Iran
+20_42,Europe,Germany
+20_43,Latin America,Brazil
+20_44,Oceania,Australia
+20_45,Middle East,Iran
+20_46,Latin America,Brazil
+20_47,Europe,Italy
+20_48,Europe,Poland
+20_49,South East Asia,South Korea
+20_50,North America,USA
+20_51,Europe,Croatia
+20_52,North America,USA
+20_53,Latin America,Brazil
+20_54,Latin America,Brazil
+20_55,Latin America,Brazil
+20_56,Latin America,Brazil
+20_57,Latin America,Brazil
+20_58,Latin America,Brazil
+20_59,Latin America,Ecuador
+20_60,Middle East,Turkey
+20_61,Europe,Latvia
+20_62,Central Asia,Russia
+20_63,Central Asia,Russia
+20_64,Latin America,Brazil
+20_65,Latin America,Brazil
+20_66,Europe,Bosnia and Herzegovina
+20_67,Central Asia,Russia
+20_68,Europe,Poland
+20_69,Central Asia,Russia
+20_70,Europe,Italy
+20_71,Europe,Poland
+20_72,Europe,Italy
+20_73,Europe,Poland
+20_74,Europe,Poland
+20_75,Central Asia,Russia
+20_76,Latin America,Brazil
+20_77,Europe,Croatia
+20_78,Middle East,Turkey
+20_79,Europe,Italy
+20_80,Europe,Lithuania
+20_81,Latin America,Brazil
+20_82,Europe,Italy
+20_83,Europe,Italy
+20_84,Africa,South Africa
+20_85,Latin America,Brazil
+20_86,Latin America,Brazil
+20_87,Middle East,Iran
+20_88,Latin America,Cuba
+20_89,Latin America,Argentina
+20_90,Latin America,Brazil
+20_91,North America,USA
+21_01,Europe,Poland
+21_02,Middle East,Iran
+21_03,Europe,Germany
+21_04,Central Asia,Russia
+21_05,South East Asia,Indonesia
+21_06,South East Asia,Indonesia
+21_07,Oceania,Australia
+21_08,South East Asia,South Korea
+21_09,Latin America,Brazil
+21_10,Europe,Sweden
+21_11,Europe,Croatia
+21_12,Europe,Finland
+21_13,Europe,Bulgaria
+21_14,Europe,Bulgaria
+21_15,Middle East,Iran
+21_16,Europe,Spain
+21_17,North America,USA
+21_18,Latin America,Mexico
+21_19,Europe,Poland
+21_20,Middle East,Iran
+21_21,Europe,Latvia
+21_22,Europe,Spain
+21_23,Middle East,Iran
+21_24,South East Asia,Indonesia
+21_25,North America,Canada
+21_26,Europe,Italy
+21_27,Europe,Italy
+21_28,Europe,Poland
+21_29,Middle East,Iran
+21_30,North America,USA
+21_31,Latin America,Brazil
+21_32,Europe,Croatia
+21_33,Europe,Czech Republic
+21_34,Europe,Romania
+21_35,North America,USA
+21_36,North America,USA
+21_37,Europe,Czech Republic
+21_38,Latin America,Brazil
+21_39,Europe,Poland
+21_40,Europe,Germany
+21_41,Latin America,Brazil
+21_42,Europe,Bulgaria
+21_43,Europe,Latvia
+21_44,South East Asia,Indonesia
+21_45,Latin America,Brazil
+21_46,Europe,Italy
+21_47,South East Asia,Malaysia
+21_48,North America,USA
+21_49,Middle East,Iran
+21_50,Africa,Ghana
+21_51,Middle East,Turkey
+21_52,Europe,Finland
+21_53,Europe,Romania
+21_54,Latin America,Brazil
+21_55,Latin America,Brazil
+21_56,Europe,Romania
+21_57,Europe,Latvia
+21_58,Europe,Italy
+21_59,Middle East,Turkey
+21_60,Latin America,Brazil
+21_61,North America,Canada
+21_62,Middle East,Iran
+21_62,Europe,Iran
+21_62,Middle East,Italy
+21_62,Europe,Italy
+21_63,Europe,Czech Republic
+21_64,North America,USA
+21_65,Oceania,Australia
+21_66,Middle East,Turkey
+21_67,Middle East,Iran
+21_68,Latin America,Brazil
+21_70,Latin America,Brazil
+21_71,Europe,Portugal
+22_01,North America,USA
