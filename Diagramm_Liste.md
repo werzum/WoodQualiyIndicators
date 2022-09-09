@@ -17,7 +17,7 @@
     • 1.13 Übersicht der Nachhaltigkeitsindikatoren je Nachhaltigkeitskriterium (Tabelle) - mal anschauen - vielleicht noch die letzten Column Headers entfernen?
 
 ### Zusammenhänge der Parameter und Kriterien
-    • 2.1 Country/Region – Kriterien
+    • 2.1 Country/Region – Kriterien -> 1.2 zu 1.11 cross-referencing?
     • 2.2 Time Span – Kriterien
     • 2.3 Study Type – Kriterien
     • 2.4 Harvesting – Kriterien
